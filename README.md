@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Humaid Kidwai 👋
 
-<!--
-**humaidkidwai/humaidkidwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and researcher with a focus on geospatial IoT and cloud-native architectures. Currently pursuing an MSc in Wearable Technology at the University of Calgary, I'm passionate about developing scalable, efficient solutions for managing and analyzing geospatial data.
 
-Here are some ideas to get you started:
+- 🌍 **Current Role**: MSc in Wearable Technology at GeoSensorWebLab, University of Calgary
+- 🏢 **Affiliations**:
+  - Member of the Open Geospatial Consortium (OGC) SensorThings API Standards Working Group
+  - Open Source Contributor, 52°North GmbH
+  - Senior Software Engineer at Samsung Research Institute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technical Skills
+
+- **Languages**: Java, Python, C, C++, SQL, JavaScript
+- **Frameworks**: Spring Boot, Node.js, Django, JUnit, Intel DPDK
+- **Developer Tools**: Git, Docker, Kubernetes, AWS Cloud, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+- **Libraries**: jOOQ, JPA, Matplotlib, Pandas, Selenium
+- **Databases**: PostgreSQL, MySQL, MongoDB, DuckDB
+- **Geospatial Technologies**: OGC SensorThings API, Cloud Native Geospatial, AWS Suite
+
+---
+
+### 📚 Notable Projects
+
+- **Cloud-native Geospatial Storage**:
+  - Developed a data lakehouse based cloud-native storage architecture for geospatial IoT data using AWS & Apache Iceberg.
+
+- **5G Networks R&D at Samsung**:
+  - Enhanced HTTP packet filtering in 5G Core, achieving a 72% improvement in latency.
+  - Implemented caching and bloom filter techniques to handle non-matching searches, boosting performance by 36%.
+
+- **Open Source Contributions**:
+  - GSOC 2024: 52°North's SensorThings API implementation, enhancing the standard to support cloud-native geospatial data formats.
+  - Active in OGC +various other communities
+
+---
+
+### 🏆 Leadership & Awards
+
+- **CSA Graduate Scholarship Award (2024)**
+- **Open-Source Summit North America (2023)**
+- **Professional Software Competency Test (2022)**
+- **GirlScript Mentor (2020)**
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/humaid-kidwai/)
+- [ORCID](https://orcid.org/0000-0002-2667-5642)
+- [GitHub](https://github.com/humaidkidwai)
+
+I'm always open to collaborative projects and contributions to the open-source community. Feel free to reach out if you're interested in building innovative tech together!
