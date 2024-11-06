@@ -39,9 +39,9 @@ I'm a software engineer and researcher with a focus on geospatial IoT and cloud-
 ### 🏆 Leadership & Awards
 
 - **CSA Graduate Scholarship Award (2024)**
-- **Open-Source Summit North America (2023)**
-- **Professional Software Competency Test (2022)**
-- **GirlScript Mentor (2020)**
+- **The Linux Foundation Open-Source Summit North America Scholarship (2023)**
+- **Samsung Professional Software Competency Test (2022)**
+- **GirlScript Foundation Coding Bootcamp Mentor (2020)**
 
 ---
 
