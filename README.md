@@ -1,6 +1,6 @@
 # Hi there, I'm Humaid Kidwai 👋
 
-I'm a software engineer and researcher with a focus on geospatial IoT and cloud-native architectures. Currently pursuing an MSc in Wearable Technology at the University of Calgary, I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
+I'm a software engineer and researcher with a focus on Geo-IoT and cloud-native architectures. Currently pursuing an MSc in Wearable Technology at the University of Calgary, I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
 
 - 🌍 **Current Role**: MSc in Wearable Technology at GeoSensorWebLab, University of Calgary
 - 🏢 **Affiliations**:
@@ -17,14 +17,13 @@ I'm a software engineer and researcher with a focus on geospatial IoT and cloud-
 - **Developer Tools**: Git, Docker, Kubernetes, AWS Cloud, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
 - **Libraries**: jOOQ, JPA, Matplotlib, Pandas, Selenium
 - **Databases**: PostgreSQL, MySQL, MongoDB, DuckDB
-- **Geospatial Technologies**: OGC SensorThings API, Cloud Native Geospatial, AWS Suite
 
 ---
 
 ### 📚 Notable Projects
 
 - **Cloud-native Geospatial Storage**:
-  - Developed a data lakehouse based cloud-native storage architecture for geospatial IoT data using AWS & Apache Iceberg.
+  - Developed a Geospatiial Data Lakehouse using a cloud-native storage architecture for real-time Geo-IoT datastreams using AWS Kinesis, AWS Glue & Apache Iceberg.
 
 - **5G Networks R&D at Samsung**:
   - Enhanced HTTP packet filtering in 5G Core, achieving a 72% improvement in latency.
