@@ -12,10 +12,10 @@ I'm a software engineer and researcher with a focus on Geo-IoT and cloud-native 
 
 ### 🔧 Technical Skills
 
-- **Languages**: Java, Python, C, C++, SQL, JavaScript
-- **Frameworks**: Spring Boot, Node.js, Django, JUnit, Intel DPDK
-- **Developer Tools**: Git, Docker, Kubernetes, AWS Cloud, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
-- **Libraries**: jOOQ, JPA, Matplotlib, Pandas, Selenium
+- **Languages**: C, C++, Rust, Java, JavaScript, TypeScript, Python, SQL
+- **Frameworks**: Spring Boot, Node.js, Express.js, Django, JUnit, GTest
+- **Developer Tools**: Git, Docker, Kubernetes, AWS Cloud, Visual Studio, PyCharm, IntelliJ, Eclipse
+- **Libraries**: jOOQ, JPA, Hibernate, Matplotlib, Pandas, Selenium
 - **Databases**: PostgreSQL, MySQL, MongoDB, DuckDB
 
 ---
