@@ -1,6 +1,6 @@
 # Hi there, I'm Humaid Kidwai 👋
 
-I'm a software engineer and researcher with a focus on Geo-IoT and cloud-native architectures. Currently pursuing an MSc in Wearable Technology at the University of Calgary, I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
+I'm a software engineer and researcher with a focus on Geo-IoT and cloud-native architectures. Currently pursuing an MSc in ${Geomatics | Software} Engineering at the University of Calgary, I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
 
 - 🌍 **Current Role**: MSc in Wearable Technology at GeoSensorWebLab, University of Calgary
 - 🏢 **Affiliations**:
