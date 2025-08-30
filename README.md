@@ -1,9 +1,11 @@
 # Hi there, I'm Humaid Kidwai 👋
 
-I'm a software engineer and researcher with a focus on Geo-IoT and cloud-native architectures. Currently pursuing an MSc in ${Geomatics | Software} Engineering at the University of Calgary, I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
+I'm a software engineer and researcher with an interest at the intersection of Software & Geomatics Engineering.
+Recently defended my MSc in ${Geomatics | Software} Engineering at the University of Calgary.
+I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
 
-- 🌍 **Current Role**: MSc candidate at GeoSensorWebLab, University of Calgary
-- 🏢 **Affiliations**:
+- 🌍 **Current Role**: Senior Software Engineer, TDK Trusted Positioning
+- 🏢 **Past Affiliations**:
   - Member of the Open Geospatial Consortium (OGC) SensorThings API Standards Working Group
   - Open Source Contributor, 52°North GmbH
   - Senior Software Engineer at Samsung Research Institute
