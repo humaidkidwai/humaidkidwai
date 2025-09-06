@@ -1,4 +1,4 @@
-# Hi there, I'm Humaid Kidwai 👋
+# Hi, I'm Humaid Kidwai 👋
 
 I'm a software engineer and researcher with interests at the intersection of Software & Geomatics Engineering.
 I recently defended my MSc thesis in Geomatics / Software Engineering at the University of Calgary.
@@ -10,7 +10,7 @@ I'm passionate about engineering scalable and efficient solutions for managing a
   - Senior Software Engineer: Samsung Research Institute
 ---
 
-### 🔧 Technical Skills
+### 🛠️ Technical Stack
 
 - **Languages**: C, C++, Rust, Java, JavaScript, TypeScript, Python, SQL
 - **Frameworks**: Spring Boot, Node.js, Express.js, Django, JUnit, GTest
@@ -20,7 +20,7 @@ I'm passionate about engineering scalable and efficient solutions for managing a
 
 ---
 
-### 📚 Notable Projects
+### 🚀 Projects
 
 - **Cloud-native Geospatial Storage**:
   - Developed a Geospatiial Data Lakehouse using a cloud-native storage architecture for real-time Geo-IoT datastreams using AWS Kinesis, AWS Glue & Apache Iceberg.
