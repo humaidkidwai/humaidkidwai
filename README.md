@@ -1,15 +1,13 @@
 # Hi there, I'm Humaid Kidwai 👋
 
-I'm a software engineer and researcher with an interest at the intersection of Software & Geomatics Engineering.
-Recently defended my MSc in ${Geomatics | Software} Engineering at the University of Calgary.
-I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of data.
+I'm a software engineer and researcher with interests at the intersection of Software & Geomatics Engineering.
+I recently defended my MSc thesis in Geomatics / Software Engineering at the University of Calgary.
+I'm passionate about engineering scalable and efficient solutions for managing and analyzing large volumes of sensor data.
 
-- 🌍 **Current Role**: Senior Software Engineer, TDK Trusted Positioning
+- 🌍 **Current Role**: Senior Software Engineer: TDK Trusted Positioning
 - 🏢 **Past Affiliations**:
-  - Member of the Open Geospatial Consortium (OGC) SensorThings API Standards Working Group
-  - Open Source Contributor, 52°North GmbH
-  - Senior Software Engineer at Samsung Research Institute
-
+  - Standards Working Group Member: Open Geospatial Consortium (OGC) SensorThings API
+  - Senior Software Engineer: Samsung Research Institute
 ---
 
 ### 🔧 Technical Skills
